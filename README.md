@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development C/C++, Win API, Python
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Open source C/C++
-<!-- 
+<!--- 
 - 📫 How to reach me at Nico2993ee@live.nl
 
 -  <a href="https://gist.github.com/NicoJanE/c4433a9836ff5da1a8900e27f8614546">Something</a>  
