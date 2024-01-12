@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nico Jan
 - 👀 I’m interested in Development C/C++, Win API, Python
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Open source C/C++
+- 💞️ I’m looking to collaborate on Open source C/C++, Rust, Python or JavaScript
 <!--- 
 - 📫 How to reach me at Nico2993ee@live.nl
 
