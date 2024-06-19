@@ -3,7 +3,7 @@ Hi, I’m Nico Jan a Software developer in the NetherlandsI’m interested in De
 <br><br>
 
 ## My projects
-Currently I work or support the following projects. A project may not be available due to the state of development (see legend below) or due to personal choice
+Currently I work on and/or use the following projects. Some project may not be available due to the state of development (see legend below) or due to personal choice
 
 <sub>Legend</sub>
 <table>
