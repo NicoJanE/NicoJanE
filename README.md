@@ -19,7 +19,7 @@ Currently I work on and/or use the following projects. Some project may not be a
 
 1. PTR ➡️ Project Template Realization<br>
   A private(for now) fro creating applications based on templates, optional with a docker container(⚪)<br>
-  [Click here](https://www.google.com) <br><br>
+  <!-- [Click here](https://www.google.com) <br><br> -->
 1. DTS ➡️ Developer Template Stacks (Docker) <br>
   Different developer based containers for development in a specific language
    * PHP Development Template Stack (⚪)
