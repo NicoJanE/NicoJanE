@@ -4,11 +4,11 @@ Hi, I’m Nico Jan a Software developer in the NetherlandsI’m interested in De
 
 ## My projects
 Currently I work on and/or use the following projects. Some project may not be available due to the state of development (see legend below) or due to personal choice
-
+⚪
 <sub>Legend</sub>
 <table>
     <thead>                
-        <tr>  <th>Planned public</th><th>🟠</th>  </tr>
+        <tr>  <th>Planned public</th><th>⚪</th>  </tr>
         <tr>  <th>private</th><th>🔴</th>  </tr>        
         <tr>  <th>public</th> <th>🟢</th>  </tr>
     </thead>    
@@ -18,12 +18,12 @@ Currently I work on and/or use the following projects. Some project may not be a
 
 
 1. PTR ➡️ Project Template Realization<br>
-  A private(for now) fro creating applications based on templates, optional with a docker container(🟠)<br>
+  A private(for now) fro creating applications based on templates, optional with a docker container(⚪)<br>
   [Click here](https://www.google.com) <br><br>
 1. DTS ➡️ Developer Template Stacks (Docker) <br>
   Different developer based containers for development in a specific language
-   * PHP Development Template Stack (🟠)
-   * PythonFlask Development Template Stack  (🟠)
+   * PHP Development Template Stack (⚪)
+   * PythonFlask Development Template Stack  (⚪)
    * React Development Template Stack  (🔴)
 
 
