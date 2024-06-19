@@ -4,7 +4,7 @@ Hi, I’m Nico Jan a Software developer in the NetherlandsI’m interested in De
 
 ## My projects
 Currently I work on and/or use the following projects. Some project may not be available due to the state of development (see legend below) or due to personal choice
-⚪
+
 <sub>Legend</sub>
 <table>
     <thead>                
