@@ -30,7 +30,7 @@ Currently I work on and/or use the following projects. Some project may not be a
 
 
 <br><br>
-### want know more about
+### Want know more about
 Here a list for myself:
 - WebAssembly
 - AssemblyScript
