@@ -22,7 +22,7 @@ Currently I work on and/or use the following projects. Some project may not be a
   <!-- [Click here](https://www.google.com) <br><br> -->
 1. DTS ➡️ Developer Template Stacks (Docker) <br>
   Different developer based containers for development in a specific language
-   * PHP Development Template Stack (🟢) [Click here]([)](https://nicojane.github.io/PHP-Development-Template-Stack/)
+   * PHP Development Template Stack (🟢) [Click here](https://nicojane.github.io/PHP-Development-Template-Stack/)
    * PythonFlask Development Template Stack  (⚪)
    * React Development Template Stack  (🔴)
 
