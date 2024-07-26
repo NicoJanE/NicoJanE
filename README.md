@@ -25,7 +25,7 @@ Currently I work on and/or use the following projects. Some project may not be a
    * PHP Development Template Stack (🟢) [Click here](https://nicojane.github.io/PHP-Development-Template-Stack/)
    * Rust Development Template Stack (🟢) [Click here](https://nicojane.github.io/Rust-Development-Template-Stack/)
    * PythonFlask Development Template Stack  (⚪)
-   * React Development Template Stack  (🔴)
+   * React Development Template Stack (🟢) [Click here](https://nicojane.github.io/React-Development-Template-Stack/)
 
 
 
