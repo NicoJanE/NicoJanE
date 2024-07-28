@@ -5,18 +5,6 @@ Hi, I’m Nico Jan a Software developer in the Netherlands. I’m interested in 
 ## My projects
 Currently I work on and/or use the following projects. Some project may not be available due to the state of development (see legend below) or due to personal choice
 
-<sub>Legend</sub>
-<table>
-    <thead>                
-        <tr>  <th>Planned public</th><th>⚪</th>  </tr>
-        <tr>  <th>private</th><th>🔴</th>  </tr>        
-        <tr>  <th>public</th> <th>🟢</th>  </tr>
-    </thead>    
-</table><br><br>
-
-
-
-
 1. PTR ➡️ Project Template Realization<br>
   A private(for now) fro creating applications based on templates, optional with a docker container(⚪)<br>
   <!-- [Click here](https://www.google.com) <br><br> -->
@@ -47,3 +35,16 @@ Here a list for myself:
 NicoJanE/NicoJanE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+<!--
+<sub>Legend</sub>
+<table>
+    <thead>                
+        <tr>  <th>Planned public</th><th>⚪</th>  </tr>
+        <tr>  <th>private</th><th>🔴</th>  </tr>        
+        <tr>  <th>public</th> <th>🟢</th>  </tr>
+    </thead>    
+</table><br><br>
+-->
