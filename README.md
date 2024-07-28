@@ -21,12 +21,9 @@ Currently I work on and/or use the following projects. Some project may not be a
   A private(for now) fro creating applications based on templates, optional with a docker container(⚪)<br>
   <!-- [Click here](https://www.google.com) <br><br> -->
 1. DTS ➡️ Developer Template Stacks (Docker) <br>
-  Different developer based containers for development in a specific language
-   * PHP Development Template Stack (🟢) [Click here](https://nicojane.github.io/PHP-Development-Template-Stack/)
-   * Rust Development Template Stack (🟢) [Click here](https://nicojane.github.io/Rust-Development-Template-Stack/)
-   * PythonFlask Development Template Stack  (⚪)
-   * React Development Template Stack (🟢) [Click here](https://nicojane.github.io/React-Development-Template-Stack/)
-
+  Different Docker containers for development, test and experimenting purpose. The following page contains the list of available Docker language stacks.
+   * [DTS Home](https://github.com/NicoJanE/Docker-Template-Stacks-Home) 
+   
 
 
 
