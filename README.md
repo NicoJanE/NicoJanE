@@ -10,7 +10,7 @@ Currently I work on and/or use the following projects. Some project may not be a
   <!-- [Click here](https://www.google.com) <br><br> -->
 1. DTS ➡️ Developer Template Stacks (Docker) <br>
   Different Docker containers for development, test and experimenting purpose. The following page contains the list of available Docker language stacks.
-   * [DTS Home](https://github.com/NicoJanE/Docker-Template-Stacks-Home) 
+   * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/) 
    
 
 
