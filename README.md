@@ -5,15 +5,14 @@ Hi, I’m Nico Jan a Software developer in the Netherlands. I’m interested in 
 ## My projects
 Currently I work on and/or use the following projects. Some project may not be available due to the state of development (see legend below) or due to personal choice
 
-1. PTR ➡️ Project Template Realization<br>
-  A private(for now) fro creating applications based on templates, optional with a docker container(⚪)<br>
-  <!-- [Click here](https://www.google.com) <br><br> -->
 1. DTS ➡️ Developer Template Stacks (Docker) <br>
   Different Docker containers for development, test and experimenting purpose. The following page contains the list of available Docker language stacks.
-   * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/) 
+   * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/)
+<!--    
+1. PTR ➡️ Project Template Realization<br>
+  A private(for now) foR creating applications based on templates, optional with a docker container(⚪)<br>
+   [Click here](https://www.google.com) <br><br> -->
    
-
-
 
 <br><br>
 ### Want know more about
