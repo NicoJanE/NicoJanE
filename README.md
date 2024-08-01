@@ -15,13 +15,15 @@ Currently I work on and/or use the following projects. Some project may not be a
    
 
 <br><br>
-### Want know more about
+### What interests me currently
 Here a list for myself:
 - WebAssembly
+- C/C++
+- Win API
 - AssemblyScript
 - Angular
 - MAUI
-- kubernetes
+- Docker/kubernetes
   
 - 
 <!--- 
