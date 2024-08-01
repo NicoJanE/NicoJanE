@@ -1,5 +1,5 @@
 # About 
-Hi, I’m Nico Jan a Software developer in the Netherlands. I’m interested in Development C/C++, Win API,C#, Python, Javascript, TypeScript and other computer languages and tools. I’m looking to collaborate on Open source.
+Hi, I’m Nico Jan a Software developer in the Netherlands. I’m interested in general development, C/C++, Win API, C#, Python, Javascript, TypeScript and other computer languages and tools. I’m looking to collaborate on Open source.
 <br><br>
 
 ## My projects
