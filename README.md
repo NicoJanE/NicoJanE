@@ -7,15 +7,16 @@ Currently I work on and/or use the following projects.
 
 1. DTS ➡️ Developer Template Stacks (Docker) <br>
   Different Docker containers for development, test and experimenting purpose. The following page contains the list of available Docker language stacks.
+
    * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/)
 <!--    
 1. PTR ➡️ Project Template Realization<br>
   A private(for now) foR creating applications based on templates, optional with a docker container(⚪)<br>
    [Click here](https://www.google.com) <br><br> -->
    
+<br>
 
-<br><br>
-### What interests me currently
+## What interests me currently
 Here a list for myself:
 - WebAssembly
 - C/C++
@@ -25,7 +26,6 @@ Here a list for myself:
 - MAUI
 - Docker/kubernetes
   
-- 
 <!--- 
 - 📫 How to reach me at Nico2993ee@live.nl
 
