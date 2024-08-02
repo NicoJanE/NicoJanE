@@ -5,7 +5,7 @@ Hi, I’m Nico Jan a Software developer in the Netherlands. I’m interested in 
 ## My projects
 Currently I work on and/or use the following projects.
 
-1. DTS ➡️ Developer Template Stacks (Docker) <br>
+1. DTS ➡️ Docker Template Stacks (Docker) <br>
   Different Docker containers for development, test and experimenting purpose. The following page contains the list of available Docker language stacks.
 
    * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/)
