@@ -11,9 +11,9 @@ Currently I work on and/or use the following projects.
    * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/)
   
 2. WSL Containers <br>
-   Specific WSL containers fro Windows development
+   Specific WSL containers for Windows development
 
-   * [WSl Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
+   * [WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
      
 <!--    
 1. PTR ➡️ Project Template Realization<br>
