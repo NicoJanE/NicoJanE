@@ -26,10 +26,12 @@ Currently I work on and/or use the following projects.
 Here a list for myself:
 - WebAssembly
 - C/C++
-- Win API
+- Win32 API
 - AssemblyScript
 - Angular
 - MAUI
+- Python
+- Power-Shell
 - Docker/kubernetes
   
 <!--- 
