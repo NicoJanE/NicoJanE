@@ -26,6 +26,7 @@ Currently I work on and/or use the following projects.
 Here a list for myself:
 - WebAssembly
 - C/C++
+- STM32
 - Win32 API
 - AssemblyScript
 - Angular
