@@ -1,17 +1,18 @@
 # About 
-Hi, I’m Nico Jan a Software developer in the Netherlands. I’m interested in general development, C/C++, Win API, C#, Python, Javascript, TypeScript and other computer languages and tools. I’m looking to collaborate on Open source.
+Hi, I’m Nico Jan, a software developer based in the Netherlands. I’m passionate about general software development and enjoy working with languages and tools such as C/C++, Win32 API, C#, Python, JavaScript, TypeScript, and more. I'm always open to collaboration, especially on open-source projects.
+
 <br><br>
 
-## My projects
-Currently I work on and/or use the following projects.
+## My Projects
+I'm currently working on and using the following projects:
 
 1. DTS ➡️ Docker Template Stacks (Docker) <br>
-  Different Docker containers for development, test and experimenting purpose. The following page contains the list of available Docker language stacks.
+A collection of Docker containers designed for development, testing, and experimentation.
 
    * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/)
   
 2. WSL Containers <br>
-   Specific WSL containers for Windows development
+   Tailored WSL containers for development on Windows.
 
    * [WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
      
@@ -22,8 +23,8 @@ Currently I work on and/or use the following projects.
    
 <br>
 
-## What interests me currently
-Here a list for myself:
+## What Interests me Currently
+Here’s a list of technologies and topics I'm currently exploring or working with:
 - .NET
   - Core
   - MAUI
