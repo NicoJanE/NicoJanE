@@ -24,16 +24,21 @@ Currently I work on and/or use the following projects.
 
 ## What interests me currently
 Here a list for myself:
-- WebAssembly
-- C/C++
-- STM32
-- Win32 API
-- AssemblyScript
+- .NET
+  - Core
+  - MAUI
+  - WPF
+- ARM Microcontrollers
+  - STM32
 - Angular
-- MAUI
-- Python
-- Power-Shell
+- AssemblyScript
+- C/C++
 - Docker/kubernetes
+- Power-Shell
+- Python
+- WebAssembly
+- Win32 API
+
   
 <!--- 
 - 📫 How to reach me at Nico2993ee@live.nl
