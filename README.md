@@ -2,7 +2,7 @@
 Hi, I’m Nico Jan, a software developer based in the Netherlands. I’m passionate about general software development and enjoy working with languages and tools such as C/C++, Win32 API, C#, Python, JavaScript, TypeScript, and more. I'm always open to collaboration, especially on open-source projects.
 
 Ik sta open voor een nieuwe uitdagingen
-📧 `NicoJanE@users.noreply.github.com`
+📧 `NicoJanE@ziggo.nl`
 <br><br>
 
 ## My Projects
