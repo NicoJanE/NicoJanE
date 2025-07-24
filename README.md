@@ -42,6 +42,7 @@ Here’s a list of technologies and topics I'm currently exploring or working wi
 - WebAssembly
 - Win32 API
 
+<br>
 
 ## Style Proposals & Suggestions
 
