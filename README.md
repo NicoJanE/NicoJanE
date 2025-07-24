@@ -42,6 +42,13 @@ Here’s a list of technologies and topics I'm currently exploring or working wi
 - WebAssembly
 - Win32 API
 
+
+## Style Proposals & Suggestions
+
+Below is a list of style proposals and suggestions:
+
+- [C++ Separate types from instances](https://nicojane.github.io/WSL-Development-Stack-GLFW-Skia-CPP-Template/Howtos/CPPStyle-type-name-separation)
+
   
 <!--- 
 - 📫 How to reach me at Nico2993ee@live.nl
