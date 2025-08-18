@@ -5,6 +5,12 @@ Ik sta open voor een nieuwe uitdagingen
 📧 `NicoJanE@ziggo.nl`
 <br><br>
 
+## Current project and intrests
+- LLM
+  - OLlama
+-  GLFW + Skia Template C/C++ project [see](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template)
+
+
 ## My Projects
 I'm currently working on and using the following projects:
 
