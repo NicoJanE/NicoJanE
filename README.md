@@ -10,8 +10,9 @@ Ik sta open voor een nieuwe uitdagingen
   - OLlama
 -  GLFW + Skia Template C/C++ project [see](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template)
 
+<br>
 
-## My Projects
+## All Projects
 I'm currently working on and using the following projects:
 
 1. DTS ➡️ Docker Template Stacks (Docker) <br>
