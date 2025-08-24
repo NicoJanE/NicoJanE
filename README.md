@@ -57,7 +57,7 @@ Below is a list of style proposals and suggestions:
 
 - [C++ Separate types from instances](https://nicojane.github.io/WSL-Development-Stack-GLFW-Skia-CPP-Template/Howtos/CPPStyle-type-name-separation)
 
-[t](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326.js")
+[t](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326.js)
   
 <!--- 
 - 📫 How to reach me at Nico2993ee@live.nl
