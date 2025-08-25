@@ -9,8 +9,10 @@ Ik sta open voor een nieuwe uitdagingen
 - LLM
   - General
   - OLlama
+    - [What is Ollama](https://gist.github.com/NicoJanE/e8dbb0b4df1c3ffec8c4602171515ae8)
   - LMS tudio
   - VSC extensions
+    - [Ollama & VSCode](https://gist.github.com/NicoJanE/0be498206ff6e5eedf48147ee9d3cd15) 
 -  GLFW + Skia Template C/C++ project [see here](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template)
 
 <br>
@@ -63,8 +65,6 @@ Below is a list of style proposals and suggestions:
 - [C++ Separate types from instances](https://nicojane.github.io/WSL-Development-Stack-GLFW-Skia-CPP-Template/Howtos/CPPStyle-type-name-separation)
 
 [VSC](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326)
-[Ollama](https://gist.github.com/NicoJanE/e8dbb0b4df1c3ffec8c4602171515ae8)
-[Ollama & VSCode](https://gist.github.com/NicoJanE/0be498206ff6e5eedf48147ee9d3cd15)
 
 <!--- 
 - 📫 How to reach me at Nico2993ee@live.nl
