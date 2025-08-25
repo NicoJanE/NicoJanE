@@ -16,7 +16,7 @@ Ik sta open voor een nieuwe uitdagingen
 <br>
 
 ## All Projects
-I'm currently working on and using the following projects:
+I'm currently have the following projects:
 
 1. DTS ➡️ Docker Template Stacks (Docker) <br>
 A collection of Docker containers designed for development, testing, and experimentation.
@@ -35,22 +35,24 @@ A collection of Docker containers designed for development, testing, and experim
    
 <br>
 
-## What Interests me Currently
+## Other Interests
 Here’s a list of technologies and topics I'm currently exploring or working with:
+- C/C++
+- AI
+- Docker/kubernetes
+- Python
+- Win32 API
+- ARM Microcontrollers
+  - STM32
 - .NET
   - Core
   - MAUI
   - WPF
-- ARM Microcontrollers
-  - STM32
-- Angular
 - AssemblyScript
-- C/C++
-- Docker/kubernetes
-- Power-Shell
-- Python
 - WebAssembly
-- Win32 API
+- Power-Shell
+- Angular
+
 
 <br>
 
