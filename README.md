@@ -7,7 +7,10 @@ Ik sta open voor een nieuwe uitdagingen
 
 ## Current project and intrests
 - LLM
+  - General
   - OLlama
+  - LMS tudio
+  - VSC extensions
 -  GLFW + Skia Template C/C++ project [see](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template)
 
 <br>
