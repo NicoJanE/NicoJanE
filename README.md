@@ -54,6 +54,8 @@ Here’s a list of technologies and topics I'm currently exploring or working wi
 - WebAssembly
 - Power-Shell
 - Angular
+- VS Code
+  - [Install Multiple VS code versions](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326) 
 
 
 <br>
@@ -64,7 +66,6 @@ Below is a list of style proposals and suggestions:
 
 - [C++ Separate types from instances](https://nicojane.github.io/WSL-Development-Stack-GLFW-Skia-CPP-Template/Howtos/CPPStyle-type-name-separation)
 
-[VSC](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326)
 
 <!--- 
 - 📫 How to reach me at Nico2993ee@live.nl
