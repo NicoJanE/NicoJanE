@@ -9,9 +9,11 @@ Ik sta open voor een nieuwe uitdagingen
 - LLM
   - General
   - OLlama
+    - [Local AI server Koboldcpp combined with Continue](https://gist.github.com/NicoJanE/abee1129af1f4e7d0c2ebb38907c9b86)
     - [What is Ollama](https://gist.github.com/NicoJanE/e8dbb0b4df1c3ffec8c4602171515ae8)
   - LMS tudio
-  - VSC extensions
+  - VSC AI extensions
+  - 
     - [Ollama & VSCode](https://gist.github.com/NicoJanE/0be498206ff6e5eedf48147ee9d3cd15) 
 -  GLFW + Skia Template C/C++ project [see here](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template)
 
