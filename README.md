@@ -8,8 +8,9 @@ Ik sta open voor een nieuwe uitdagingen
 ## Current project and intrests
 - LLM
   - General
-  - OLlama
-    - [Local AI server Koboldcpp combined with Continue](https://gist.github.com/NicoJanE/abee1129af1f4e7d0c2ebb38907c9b86)
+  - Local AI Server & VS Code
+    - [Koboldcpp combined with Continue](https://gist.github.com/NicoJanE/abee1129af1f4e7d0c2ebb38907c9b86) My current preference combination
+  - OLlama    
     - [What is Ollama](https://gist.github.com/NicoJanE/e8dbb0b4df1c3ffec8c4602171515ae8)
   - LMS tudio
   - VSC AI extensions
