@@ -1,7 +1,11 @@
-# About 
-Hi, I’m Nico Jan, a software developer based in the Netherlands. I’m passionate about general software development and enjoy working with languages and tools such as C/C++, Win32 API, C#, Python, JavaScript, TypeScript, and more. I'm always open to collaboration, especially on open-source projects.
+# About
 
-Ik sta open voor een nieuwe uitdagingen
+Hi, I’m Nico Jan, a software developer from the Netherlands.  
+I love building software and enjoy working with a wide range of languages and tools, including C/C++, Win32 API, C#, Python, JavaScript, and TypeScript. I’m always open to collaborations, open-source projects, and new professional challenges.
+
+
+
+- Contact  
 📧 `NicoJanE@ziggo.nl`
 <br><br>
 
