@@ -59,7 +59,7 @@ Each has its own homepage and set of stacks, which you can find below:
 This section contains additional topics and details. Click the headers below to expand each section.
 
 <details>
-<summary> <h3> Interests  ⬇️ </h3> </summary>
+<summary> <b>Interests</b> ⬇️</summary>
   
 Here’s a list of technologies and topics reflecting both my experience and current interests.
 
@@ -79,16 +79,19 @@ Here’s a list of technologies and topics reflecting both my experience and cur
 - **PowerShell**
 - **Angular**
 - **Visual Studio Code**
-  - [Install Multiple VS code versions](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326) 
+  - [Install Multiple VS code versions](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326)
+ 
+<br>
 </details>
 
 <details>
-<summary> <h3> Things I’ve Proposed and Reported  ⬇️ </h3> </summary>
+<summary> <b>Things I’ve Proposed and Reported</b> ⬇️</summary>
 
 A list of my proposals, suggestions, and reports across different communities.
 
 - [C++ Separate types from instances](https://nicojane.github.io/WSL-Development-Stack-GLFW-Skia-CPP-Template/Howtos/CPPStyle-type-name-separation)
 
+<br>
 </details>
 
 <!--- 
