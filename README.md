@@ -17,6 +17,7 @@ While some of these Gists are specific to my hardware, they may still provide us
 
 - [What is Ollama](https://gist.github.com/NicoJanE/e8dbb0b4df1c3ffec8c4602171515ae8)
 - LMS Studio
+- TensorFlow
 
 
 ### LLM VSC AI Extensions
