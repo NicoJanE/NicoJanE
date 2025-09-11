@@ -51,25 +51,26 @@ Each has its own homepage and set of stacks, which you can find below:
 <br>
 
 ## Other Interests
-Here’s a list of technologies and topics I'm currently exploring or working with:
-- C/C++
-- AI
-- Docker/kubernetes
-- Python
-- Win32 API
-- ARM Microcontrollers
+
+Here’s a list of technologies and topics reflecting both my experience and current interests.
+
+- **C/C++**
+- **AI**
+- **Docker / Kubernetes**
+- **Python**
+- **Win32 API**
+- **ARM Microcontrollers**
   - STM32
-- .NET
+- **.NET**
   - Core
   - MAUI
   - WPF
-- AssemblyScript
-- WebAssembly
-- Power-Shell
-- Angular
-- VS Code
+- **AssemblyScript**
+- **WebAssembly**
+- **PowerShell**
+- **Angular**
+- **Visual Studio Code**
   - [Install Multiple VS code versions](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326) 
-
 
 <br>
 
