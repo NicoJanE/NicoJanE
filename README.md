@@ -51,11 +51,16 @@ Each has its own homepage and set of stacks, which you can find below:
 1. PTR ➡️ Project Template Realization<br>
   A private(for now) foR creating applications based on templates, optional with a docker container(⚪)<br>
    [Click here](https://www.google.com) <br><br> -->
-   
+
 <br>
 
-## Other Interests
+## Other
 
+This section contains additional topics and details. Click the headers below to expand each section.
+
+<details>
+<summary> <h3> Interests  ⬇️ </h3> </summary>
+  
 Here’s a list of technologies and topics reflecting both my experience and current interests.
 
 - **C/C++**
@@ -75,15 +80,16 @@ Here’s a list of technologies and topics reflecting both my experience and cur
 - **Angular**
 - **Visual Studio Code**
   - [Install Multiple VS code versions](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326) 
+</details>
 
-<br>
+<details>
+<summary> <h3> Things I’ve Proposed and Reported  ⬇️ </h3> </summary>
 
-## Style Proposals & Suggestions
-
-Below is a list of style proposals and suggestions:
+A list of my proposals, suggestions, and reports across different communities.
 
 - [C++ Separate types from instances](https://nicojane.github.io/WSL-Development-Stack-GLFW-Skia-CPP-Template/Howtos/CPPStyle-type-name-separation)
 
+</details>
 
 <!--- 
 - 📫 How to reach me at Nico2993ee@live.nl
