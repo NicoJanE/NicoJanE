@@ -28,19 +28,20 @@ While some of these Gists are specific to my hardware, they may still provide us
 
 <br>
 
-## All Projects
-I'm currently have the following projects:
+## Projects
 
-1. DTS ➡️ Docker Template Stacks (Docker) <br>
-A collection of Docker containers designed for development, testing, and experimentation.
+I’m working on a set of Template Stacks for different languages. These are divided into two types: **Docker Template Stacks (DTS)** and **WSL Template Stacks**.  
+Each has its own homepage and set of stacks, which you can find below:
 
-   * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/)
-  
-2. WSL Containers <br>
-   Tailored WSL containers for development on Windows.
+- **DTS ➡️ Docker Template Stacks (Docker)**  
+  A collection of Docker containers designed for development, testing, and experimentation.  
+  * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/)
 
-   * [WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
-   * Current (WIP): GLFW + Skia Template C/C++ project [see here](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template)
+- **WSL Template Stacks**  
+  Tailored WSL containers for development on Linux and Windows.  
+  * [WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
+  - Current (WIP): [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template)
+
      
 <!--    
 1. PTR ➡️ Project Template Realization<br>
