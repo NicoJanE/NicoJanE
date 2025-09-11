@@ -5,18 +5,26 @@ Ik sta open voor een nieuwe uitdagingen
 📧 `NicoJanE@ziggo.nl`
 <br><br>
 
-## Current project and intrests
-- LLM
-  - General
-  - Local AI Server & VS Code
-    - [Koboldcpp combined with Continue](https://gist.github.com/NicoJanE/abee1129af1f4e7d0c2ebb38907c9b86) My current preference combination
-  - OLlama    
-    - [What is Ollama](https://gist.github.com/NicoJanE/e8dbb0b4df1c3ffec8c4602171515ae8)
-  - LMS tudio
-  - VSC AI extensions
-  - 
-    - [Ollama & VSCode](https://gist.github.com/NicoJanE/0be498206ff6e5eedf48147ee9d3cd15) 
--  GLFW + Skia Template C/C++ project [see here](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template)
+## Gists Covering My Current Interests
+
+While some of these Gists are specific to my hardware, they may still provide useful guidance for others.
+
+### LLM General
+
+- [What is Ollama](https://gist.github.com/NicoJanE/e8dbb0b4df1c3ffec8c4602171515ae8)
+- LMS Studio
+
+
+### LLM VSC AI Extensions
+
+- Local AI Server & VS Code
+  - [Koboldcpp combined with Continue](https://gist.github.com/NicoJanE/abee1129af1f4e7d0c2ebb38907c9b86) (my current preferred setup)
+- [Ollama & VSCode](https://gist.github.com/NicoJanE/0be498206ff6e5eedf48147ee9d3cd15)
+   
+
+### Visual Studio Code
+- [Install multiple instances of VS Code](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326)
+
 
 <br>
 
@@ -32,6 +40,7 @@ A collection of Docker containers designed for development, testing, and experim
    Tailored WSL containers for development on Windows.
 
    * [WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
+   * Current (WIP): GLFW + Skia Template C/C++ project [see here](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template)
      
 <!--    
 1. PTR ➡️ Project Template Realization<br>
