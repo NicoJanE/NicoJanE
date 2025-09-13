@@ -16,8 +16,8 @@ While some of these Gists are specific to my hardware, they may still provide us
 ### LLM General
 
 - [What is Ollama](https://gist.github.com/NicoJanE/e8dbb0b4df1c3ffec8c4602171515ae8)
-- LMS Studio
-- TensorFlow
+- LMS Studio ⛏️ 
+- TensorFlow ⛏️ 
 
 
 ### LLM VSC AI Extensions
@@ -45,9 +45,10 @@ Each has its own homepage and set of stacks, which you can find below:
 - **WSL Template Stacks**  
   Tailored WSL containers for development on Linux and Windows.  
   * [WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
-  - Current (WIP): [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template)
+  - Current: [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template) ⛏️ 
 
-     
+<br>
+
 <!--    
 1. PTR ➡️ Project Template Realization<br>
   A private(for now) foR creating applications based on templates, optional with a docker container(⚪)<br>
@@ -94,6 +95,17 @@ A list of my proposals, suggestions, and reports across different communities.
 
 <br>
 </details>
+
+<br>
+
+<sub>Symbols:</sub>
+---
+| ⛏️ | <small> Work In Progress<small>*<sup>1</small> |
+|:---|:------------------------|
+| ✔️ |<small> Todo</small> |
+
+*<sup>1</sup> 
+<sup><sub>Most Items are 'Work In Progress' but the ones marked have priority.</sub></sup>
 
 <!--- 
 - 📫 How to reach me at Nico2993ee@live.nl
