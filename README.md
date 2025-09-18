@@ -93,6 +93,7 @@ Here’s a list of technologies and topics reflecting both my experience and cur
 A list of my proposals, suggestions, and reports across different communities.
 
 - [C++ Separate types from instances](https://nicojane.github.io/WSL-Development-Stack-GLFW-Skia-CPP-Template/Howtos/CPPStyle-type-name-separation)
+- [Bug report: PowerShell class methods execute external commands twice])(https://github.com/PowerShell/PowerShell/issues/26067)
 
 <br>
 </details>
