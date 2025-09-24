@@ -9,7 +9,7 @@ I love building software and enjoy working with a wide range of languages and to
 📧 `NicoJanE@ziggo.nl`
 <br><br>
 
-## Gists Covering My Current Interests
+## Gists Covering Tools and Techniques 
 
 While some of these Gists are specific to my hardware, they may still provide useful guidance for others.
 
