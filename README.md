@@ -9,6 +9,23 @@ I love building software and enjoy working with a wide range of languages and to
 📧 `NicoJanE@ziggo.nl`
 <br><br>
 
+
+## Projects
+
+I’m working on a set of Template Stacks for different languages. These are divided into two types: **Docker Template Stacks (DTS)** and **WSL Template Stacks**. Each has its own homepage and set of stacks, which you can find below:
+
+- **DTS ➡️ Docker Template Stacks (Docker)**  
+  A collection of Docker containers designed for development, testing, and experimentation.  
+  * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/)
+
+- **WSL Template Stacks**  
+  Tailored WSL containers for development on Linux and Windows.  
+  * [WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
+  - Current: [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template) ⛏️ 
+
+<br>
+
+
 ## Gists Covering Tools and Techniques 
 
 While some of these Gists are specific to my hardware, they may still provide useful guidance for others.
@@ -31,22 +48,6 @@ While some of these Gists are specific to my hardware, they may still provide us
 ### Visual Studio Code
 - [Install multiple instances of VS Code](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326)
 
-
-<br>
-
-## Projects
-
-I’m working on a set of Template Stacks for different languages. These are divided into two types: **Docker Template Stacks (DTS)** and **WSL Template Stacks**.  
-Each has its own homepage and set of stacks, which you can find below:
-
-- **DTS ➡️ Docker Template Stacks (Docker)**  
-  A collection of Docker containers designed for development, testing, and experimentation.  
-  * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/)
-
-- **WSL Template Stacks**  
-  Tailored WSL containers for development on Linux and Windows.  
-  * [WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
-  - Current: [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template) ⛏️ 
 
 <br>
 
