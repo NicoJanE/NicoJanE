@@ -48,9 +48,6 @@ While some of these Gists are specific to my hardware, they may still provide us
 ### Visual Studio Code
 - [Install multiple instances of VS Code](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326)
 
-
-<br>
-
 <!--    
 1. PTR ➡️ Project Template Realization<br>
   A private(for now) foR creating applications based on templates, optional with a docker container(⚪)<br>
