@@ -47,6 +47,7 @@ While some of these Gists are specific to my hardware, they may still provide us
 
 ### Visual Studio Code
 - [Install multiple instances of VS Code](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326)
+- [VS Code in WSL environment](https://gist.github.com/NicoJanE/d86062f4c73a8fbbfa29edfe5a585d30)
 
 <!--    
 1. PTR ➡️ Project Template Realization<br>
