@@ -21,9 +21,18 @@ I’m working on a set of Template Stacks for different languages. These are div
 - **WSL Template Stacks**  
   Tailored WSL containers for development on Linux and Windows.  
   * [WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
-  - Current: [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template) ⛏️ 
+  - Current: [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template) ⛏️
+  - Current: [PY Flask FastApi Template WSL Stack](https://github.com/NicoJanE/PY-Flask-FastApi-Template-WSL-Stack) ⛏️
 
 <br>
+
+| <div align="left">📚 <sub>Background information</sub> <br><sub> &nbsp;&nbsp;&nbsp;&nbsp; 🔶 <a href="https://gist.github.com/NicoJanE/c4c8a8f76a1bf175abae533c206428b2" title="Click for this Gist reference link ">WSL vs Docker Template Stacks - When to Use Which</a></sub></div> |
+|------------------------|
+
+
+<hr>
+<br>
+
 
 
 ## Gists Covering Tools and Techniques 
