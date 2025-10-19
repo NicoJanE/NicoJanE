@@ -11,17 +11,17 @@ Hi, I’m Nico Jan, a software developer from the Netherlands with a passion for
 
 ## Projects
 
-I’m working on a set of Template Stacks for different languages. These are divided into two types: **Docker Template Stacks (DTS)** and **WSL Template Stacks**. Each has its own homepage and set of stacks, which you can find below:
+I’m working on a set of Template Stacks for different languages. These are divided into two types: **Docker Template Stacks (DTS)** and **WSL Template Stacks**. Each has its own homepage and set of containers.
 
 - **DTS ➡️ Docker Template Stacks (Docker)**  
-  A collection of Docker containers designed for development, testing, and experimentation.  
-  * [DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/)
+  *A collection of Docker containers designed for development, testing, and experimentation.*  
+  * [See: DTS Home](https://nicojane.github.io/Docker-Template-Stacks-Home/)
 
 - **WSL Template Stacks**  
-  Tailored WSL containers for development on Linux and Windows.  
-  * [WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
-  - Current: [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template) ⛏️
-  - Current: [PY Flask FastApi Template WSL Stack](https://github.com/NicoJanE/PY-Flask-FastApi-Template-WSL-Stack) ⛏️
+  *A collection of WSL containers designed for development, testing, and experimentation on Linux and Windows.*  
+  * [See: WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
+    - Recent: [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template) ⛏️
+    - Recent: [PY Flask FastApi Template WSL Stack](https://github.com/NicoJanE/PY-Flask-FastApi-Template-WSL-Stack) ⛏️
 
 <br>
 
