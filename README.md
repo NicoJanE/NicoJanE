@@ -1,7 +1,6 @@
 # About
 
-Hi, I’m Nico Jan, a software developer from the Netherlands.  
-I love building software and enjoy working with a wide range of languages and tools, including C/C++, Win32 API, C#, Python, JavaScript, and TypeScript. I’m always open to collaborations, open-source projects, and new professional challenges.
+Hi, I’m Nico Jan, a software developer from the Netherlands with a passion for building software, frameworks, and tools, exploring a wide range of programming languages, and experimenting with new technologies, including AI. I take a structured, architecture-driven approach and value clarity, consistency, and long-term quality in every project. I’m always open to collaborations, open-source projects, and new professional challenges.
 
 
 
