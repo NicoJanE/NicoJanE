@@ -35,7 +35,7 @@ I’m working on a set of Template Stacks for different languages. These are div
 
 ## Tools & Recipes
 
-Many of these Gists provide practical guidance and examples, even if some are hardware-specific.
+These short, focused Gists provide practical tips and examples, some using specific hardware but still broadly useful.
 
 ### LLM General
 
