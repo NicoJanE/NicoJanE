@@ -19,8 +19,9 @@ I’m working on a set of Template Stacks for different languages. These are div
 - **WSL Template Stacks**  
   *A collection of WSL containers designed for development, testing, and experimentation on Linux and Windows.*  
   * [See: WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
-    - Recent: [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template) ⛏️
-    - Recent: [PY Flask FastApi Template WSL Stack](https://github.com/NicoJanE/PY-Flask-FastApi-Template-WSL-Stack) ⛏️
+    - In progress: [NET-Dev-Template-Stack](https://github.com/NicoJanE/NET-Dev-Template-Stack) ⛏️
+    - In progress: [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template) ⛏️
+    - Recent: [PY Flask FastApi Template WSL Stack](https://github.com/NicoJanE/PY-Flask-FastApi-Template-WSL-Stack) 🕑
 
 <br>
 
