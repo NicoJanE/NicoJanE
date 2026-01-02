@@ -60,6 +60,7 @@ These short, focused Gists provide practical tips and examples, some using speci
 ### Github
 - [Pull Request Guide](https://gist.github.com/NicoJanE/ee6650c1ff0eedde3194580179de97b4)
 - [Branch, Release,and Tags](https://gist.github.com/NicoJanE/37f16bfae666d9ab01994b94da5cda5e)
+- [Customized GitHub Theme](https://gist.github.com/NicoJanE/7527be1fcb42febae4c8511b20563f52)
 
 <!--    
 1. PTR ➡️ Project Template Realization<br>
