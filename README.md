@@ -57,6 +57,9 @@ These short, focused Gists provide practical tips and examples, some using speci
 - [Install multiple instances of VS Code](https://gist.github.com/NicoJanE/bd7a66e22b5fec1e29c01880c5511326)
 - [VS Code in WSL environment](https://gist.github.com/NicoJanE/d86062f4c73a8fbbfa29edfe5a585d30)
 
+### Github
+- [Pull Request Guide](https://gist.github.com/NicoJanE/ee6650c1ff0eedde3194580179de97b4)
+
 <!--    
 1. PTR ➡️ Project Template Realization<br>
   A private(for now) foR creating applications based on templates, optional with a docker container(⚪)<br>
