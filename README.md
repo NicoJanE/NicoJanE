@@ -8,9 +8,9 @@ Hi, I’m Nico Jan, a software developer from the Netherlands with over 20 years
 <br><br>
 
 
-## Projects
+## Container Projects
 
-I’m working on a set of Template Stacks for different languages. These are divided into two types: **Docker Template Stacks (DTS)** and **WSL Template Stacks**. Each has its own homepage and set of containers.
+I’m working on a set of Template Stacks for different languages. These are divided into two subsites: **Docker Template Stacks (DTS)** and **WSL Template Stacks**. Each has its own homepage and set of containers.
 
 - **DTS ➡️ Docker Template Stacks (Docker)**  
   *A collection of Docker containers designed for development, testing, and experimentation.*  
@@ -22,17 +22,21 @@ I’m working on a set of Template Stacks for different languages. These are div
     - In progress: [NET-Dev-Template-Stack](https://github.com/NicoJanE/NET-Dev-Template-Stack) ⛏️
     - In progress: [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template) ⛏️
     - Recent: [PY Flask FastApi Template WSL Stack](https://github.com/NicoJanE/PY-Flask-FastApi-Template-WSL-Stack) 🕑
-
 <br>
 
 | <div align="left">📚 <sub>Background information</sub> <br><sub> &nbsp;&nbsp;&nbsp;&nbsp; 🔶 <a href="https://gist.github.com/NicoJanE/c4c8a8f76a1bf175abae533c206428b2" title="Click for this Gist reference link ">WSL vs Docker Template Stacks - When to Use Which</a></sub></div> |
 |------------------------|
 
-
-<hr>
 <br>
 
+## Other projects
 
+In addition I have the following subsites:
+- **ATS ➡️ AI Techniques, Tools & Samples**  
+  *A collection of AI Techniques & Samples.*  
+  * [See: ATS Home](https://nicojane.github.io/AI-Home/)
+
+<br>
 
 ## Tools & Recipes
 
