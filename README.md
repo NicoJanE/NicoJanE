@@ -19,7 +19,7 @@ I’m working on a set of Template Stacks for different languages. These are div
 - **WSL Template Stacks**  
   *A collection of WSL containers designed for development, testing, and experimentation on Linux and Windows.*  
   * [See: WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
-    - In progress: [NET-Dev-Template-Stack](https://github.com/NicoJanE/NET-Dev-Template-Stack) ⛏️    
+    - WSl project in progress: [NET-Dev-Template-Stack](https://github.com/NicoJanE/NET-Dev-Template-Stack) ⛏️ 🕑    
     <!-- - Recent: [PY Flask FastApi Template WSL Stack](https://github.com/NicoJanE/PY-Flask-FastApi-Template-WSL-Stack) 🕑 -->
 <br>
 
@@ -108,10 +108,15 @@ A list of my proposals, suggestions, and reports across different communities.
 <br>
 
 <sub>Symbols:</sub>
----
-| ⛏️ | <small> Work In Progress<small>*<sup>1</small> |
+
+| Icon | <small> Meaning</small> |
 |:---|:------------------------|
+| 🕑 |<small> Has recent changes</small> |
+| ⛏️ | <small> Work In Progress<small>*<sup>1</small> |
 | ✔️ |<small> Todo</small> |
+
+
+        
 
 *<sup>1</sup> 
 <sup><sub>Most Items are 'Work In Progress' but the ones marked have priority.</sub></sup>
