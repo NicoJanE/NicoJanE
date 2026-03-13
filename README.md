@@ -30,7 +30,7 @@ I’m working on a set of Template Stacks for different languages. These are div
 
 ## AI projects
 
-In addition I have the following subsites:
+In addition I have the following AI related subsite
 - **ATS ➡️ AI Techniques, Tools & Samples**  
   *A collection of AI Techniques & Samples.*  
   * [See: ATS Home](https://nicojane.github.io/AI-Home/) 🕑
