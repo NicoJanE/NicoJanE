@@ -19,9 +19,8 @@ I’m working on a set of Template Stacks for different languages. These are div
 - **WSL Template Stacks**  
   *A collection of WSL containers designed for development, testing, and experimentation on Linux and Windows.*  
   * [See: WSL Home](https://nicojane.github.io/WSL-Template-Stacks-Home/)
-    - In progress: [NET-Dev-Template-Stack](https://github.com/NicoJanE/NET-Dev-Template-Stack) ⛏️
-    - In progress: [GLFW + Skia Template C/C++ project](https://github.com/NicoJanE/WSL-Development-Stack-GLFW-Skia-CPP-Template) ⛏️
-    - Recent: [PY Flask FastApi Template WSL Stack](https://github.com/NicoJanE/PY-Flask-FastApi-Template-WSL-Stack) 🕑
+    - In progress: [NET-Dev-Template-Stack](https://github.com/NicoJanE/NET-Dev-Template-Stack) ⛏️    
+    <!-- - Recent: [PY Flask FastApi Template WSL Stack](https://github.com/NicoJanE/PY-Flask-FastApi-Template-WSL-Stack) 🕑 -->
 <br>
 
 | <div align="left">📚 <sub>Background information</sub> <br><sub> &nbsp;&nbsp;&nbsp;&nbsp; 🔶 <a href="https://gist.github.com/NicoJanE/c4c8a8f76a1bf175abae533c206428b2" title="Click for this Gist reference link ">WSL vs Docker Template Stacks - When to Use Which</a></sub></div> |
@@ -29,12 +28,12 @@ I’m working on a set of Template Stacks for different languages. These are div
 
 <br>
 
-## Other projects
+## AI projects
 
 In addition I have the following subsites:
 - **ATS ➡️ AI Techniques, Tools & Samples**  
   *A collection of AI Techniques & Samples.*  
-  * [See: ATS Home](https://nicojane.github.io/AI-Home/)
+  * [See: ATS Home](https://nicojane.github.io/AI-Home/) 🕑
 
 <br>
 
@@ -42,15 +41,7 @@ In addition I have the following subsites:
 
 These short, focused Gists provide practical tips and examples, some using specific hardware but still broadly useful.
 
-### LLM General
-
-- [What is Ollama](https://gist.github.com/NicoJanE/e8dbb0b4df1c3ffec8c4602171515ae8)
-- LMS Studio ✔️
-- TensorFlow ✔️
-  - TensorFlow.js ⛏️
-
-
-### LLM VSC AI Extensions
+### VSC AI Extensions
 
 - Local AI Server & VS Code
   - [Koboldcpp combined with Continue](https://gist.github.com/NicoJanE/abee1129af1f4e7d0c2ebb38907c9b86) (my current preferred setup)
